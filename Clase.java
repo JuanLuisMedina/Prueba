@@ -26,4 +26,16 @@ public class Clase
          int resultado = x + 4;
          return resultado;
     }
+
+    /**
+     *  
+     */
+    public void metodos()
+    {
+        for(int i = 0; i<98; i ++)
+        { 
+            i = 7+8+9;
+        }
+    }
+
 }
